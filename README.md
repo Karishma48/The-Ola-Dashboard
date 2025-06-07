@@ -5,8 +5,11 @@ I hope you’re doing great! I’m thrilled to introduce my latest project, Ola 
 
 1️⃣ Overview Page:
 Total Bookings and Total Booking Values displayed on cards.
+
 A Pie Chart breaking down booking status.
+
 A Line Chart showing ride volume trends over time.
+
 ![Dashboard Screenshot](assets/dashboard.png)
 
 2️⃣ Vehicle Type Page:
