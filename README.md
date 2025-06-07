@@ -35,14 +35,26 @@ Cards displaying Total Bookings, Successful Bookings, Canceled Bookings, and Can
 ![Dashboard Screenshot](assets/dashboard.png3)
 
 5️⃣ Ratings Page:
+
 A table showcasing Customer Ratings and Driver Ratings.
+
+![Dashboard Screenshot](assets/dashboard.png1)
+
 ✨ Interactive Elements:
+
 A menu for seamless navigation between pages.
 Slicers on every page to filter data by specific dates—affecting all visuals dynamically.
+
 📊 Interesting Insights:
+
 Overview Page: June saw the highest booking success rate and total bookings.
+
 Vehicle Type Page: Prime Sedan leads with the highest Total Bookings, Successful Bookings, Avg. Distance, and Total Distance Travelled.
+
 Revenue Page: Cash payments contributed the most revenue, and July 30 recorded the longest ride distances.
+
 Cancellation Page: Most customer cancellations occurred due to drivers not moving toward the pickup point, while drivers cited personal and car-related issues for their cancellations.
+
 Ratings Page: Customers gave the highest ratings for Prime Plus, while drivers rated Prime SUV the best.
+
 I am incredibly proud of how this project turned out—it's a blend of clean design, powerful analytics, and actionable insights!
