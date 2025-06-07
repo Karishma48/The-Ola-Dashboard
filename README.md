@@ -24,10 +24,16 @@ A detailed table with insights into Vehicle Type, Total Booking Value, Success B
 Bar Charts revealing revenue by payment methods and ride distance distribution per day.
 
 A table highlighting the Top 5 Customers.
+
 ![Dashboard Screenshot](assets/dashboard.png2)
+
 4️⃣ Cancellation Page:
+
 Pie Charts breaking down canceled rides by customer and booking status.
+
 Cards displaying Total Bookings, Successful Bookings, Canceled Bookings, and Cancellation Rate.
+![Dashboard Screenshot](assets/dashboard.png3)
+
 5️⃣ Ratings Page:
 A table showcasing Customer Ratings and Driver Ratings.
 ✨ Interactive Elements:
