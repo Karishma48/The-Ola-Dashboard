@@ -14,13 +14,17 @@ A Line Chart showing ride volume trends over time.
 ![Dashboard Screenshot](assets/dashboard.png)
 
 2️⃣ Vehicle Type Page:
+
 A detailed table with insights into Vehicle Type, Total Booking Value, Success Booking Value, and Avg. Distance Travelled.
 
 ![Dashboard Screenshot](assets/dashboard.png1)
 
 3️⃣ Revenue Page:
+
 Bar Charts revealing revenue by payment methods and ride distance distribution per day.
+
 A table highlighting the Top 5 Customers.
+![Dashboard Screenshot](assets/dashboard.png2)
 4️⃣ Cancellation Page:
 Pie Charts breaking down canceled rides by customer and booking status.
 Cards displaying Total Bookings, Successful Bookings, Canceled Bookings, and Cancellation Rate.
